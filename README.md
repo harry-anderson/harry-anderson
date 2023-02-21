@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a Rust and Javascript developer based in Australia.
+
+
 <!--
 **harry-anderson/harry-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
