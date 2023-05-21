@@ -1,1 +1,1 @@
-Im a vim enjoyer
+vim enjoyer
