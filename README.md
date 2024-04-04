@@ -1,3 +1,1 @@
-```
-:%s/hello/goodbye/gc
-```
+vim enjoyer
