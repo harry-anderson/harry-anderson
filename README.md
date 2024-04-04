@@ -1,3 +1,3 @@
 ```
-:s/hello/goodbye/gc
+:%s/hello/goodbye/gc
 ```
