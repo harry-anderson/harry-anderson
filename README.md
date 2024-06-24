@@ -1,1 +1,1 @@
-went to the beach - everybody had matching towels
+Went to the beach. Everybody had matching towels.
