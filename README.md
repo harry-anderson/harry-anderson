@@ -1,1 +1,2 @@
-Went to the beach. Everybody had matching towels.
+Traveling in a fried-out Kombi
+On a hippie trail, head full of zombie
